@@ -1,4 +1,13 @@
-### Hi there 👋
+<img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103457545764479016/AboutMe.png">
+
+- Proficient(at least I think) at:
+
+  - Lua 
+  - Javascript
+  - Node.js
+  - Web stuff
+
+
 
 <!--
 **fireblast3228/fireblast3228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
