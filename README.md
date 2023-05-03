@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103457545764479016/AboutMe.png">
+<img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103461475504361584/AboutMe.png">
 
 - Proficient(at least I think) at:
 
