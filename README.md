@@ -8,6 +8,9 @@
   - Web stuff
 
 
+# Discord
+
+
 
 <!--
 **fireblast3228/fireblast3228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
