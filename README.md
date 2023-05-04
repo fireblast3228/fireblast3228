@@ -8,9 +8,13 @@
   - Web stuff
 
 
-# Discord
+## Discord
 
 <a href="https://discord.com/users/334106948595089408" target="_blank"><img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103534057645690951/Discord.png"></a>
+
+
+## My stats
+<a href=""><img href="https://github-readme-stats.vercel.app/api?username=fireblast3228"></a>
 
 
 
