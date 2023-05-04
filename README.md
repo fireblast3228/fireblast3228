@@ -10,6 +10,8 @@
 
 # Discord
 
+<img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103487172054614136/Discord.svg">
+
 
 
 <!--
