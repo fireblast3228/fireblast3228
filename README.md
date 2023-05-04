@@ -10,11 +10,7 @@
 
 # Discord
 
-<div>
-  <img src="https://cdn.discordapp.com/avatars/334106948595089408/57c4e4a096304e56e75d2bb10f4ee95d.webp?size=128" style="display: inline">
-  <h1 style="display: inline">Discord<h1>
-   
-</div>
+<a href="https://discord.com/users/334106948595089408" target="_blank"><img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103534057645690951/Discord.png"></a>
 
 
 
