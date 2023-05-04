@@ -14,7 +14,7 @@
 
 
 ## My stats
-<a href=""><img href="https://github-readme-stats.vercel.app/api?username=fireblast3228"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api?username=fireblast3228"></a>
 
 
 
