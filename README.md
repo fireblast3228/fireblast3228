@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103461475504361584/AboutMe.png">
+<a href=""><img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103461475504361584/AboutMe.png"></a>
 
 - 🤖 I enjoy automating tedious tasks
 
