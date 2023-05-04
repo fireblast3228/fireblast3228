@@ -1,11 +1,13 @@
 <img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103461475504361584/AboutMe.png">
 
-- Proficient(at least I think) at:
+- 🤖 I enjoy automating tedious tasks
 
-  - Lua 
-  - Javascript
-  - Node.js
-  - Web stuff
+- 📜 Proficient(at least I think) at:
+
+  - <a href="https://www.lua.org/docs.html"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" width=14> Lua </a>
+  - <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width=14> Javascript</a>
+  - <a href="https://nodejs.org"><img src="https://nodejs.org/static/images/favicons/favicon.png" width=14> Node.js</a>
+  - <a href="https://developer.mozilla.org/en-US/">🖥️ Web stuff<a>
 
 
 ## Discord
@@ -15,19 +17,3 @@
 
 ## My stats
 <a href=""><img src="https://github-readme-stats.vercel.app/api?username=fireblast3228&show_icons=true&title_color=FF0000&theme=dark&ring_color=FF0000&icon_color=FF0000"></a>
-
-
-<!--
-**fireblast3228/fireblast3228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
