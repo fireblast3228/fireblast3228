@@ -1,4 +1,4 @@
-<a href=""><img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103461475504361584/AboutMe.png"></a>
+<a href=""><img src="https://github.com/fireblast3228/fireblast3228/blob/main/Assets/AboutMe.png?raw=true"></a>
 
 - 🤖 I enjoy automating tedious tasks
 
@@ -9,7 +9,15 @@
   - <a href="https://nodejs.org"><img src="https://nodejs.org/static/images/favicons/favicon.png" width=14> Node.js</a>
   - <a href="https://developer.mozilla.org/en-US/">🖥️ Web stuff<a>
 
+  <br>
+  
+<a href=""><img src="https://github.com/fireblast3228/fireblast3228/blob/main/Assets/Projects.png?raw=true"></a>
+  
+  - Nothing at least not recently
+  - New project soon?
 
+   <br>
+  
 ## Discord
 
 <a href="https://discord.com/users/334106948595089408" target="_blank"><img src="https://cdn.discordapp.com/attachments/1103456230627876874/1103534057645690951/Discord.png"></a>
